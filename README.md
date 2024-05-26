@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td style="text-align: center; width: 200px; vertical-align: middle;">
+    <td style="text-align: center; width: 400px; vertical-align: middle;">
 	  <img src="https://github.com/Youssef-Hassane/test-readme/raw/main/7medo.png" alt="Youssef Hassane" style="height: 400px;width: 400px;">
     </td>
     <td style="vertical-align: middle;">
