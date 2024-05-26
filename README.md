@@ -9,7 +9,7 @@
 ## Ex - Developer:
 | **Youssef Hassane** | **Youssef Hassane** |
 |---|---|
-| ![Youssef Hassane](https://github.com/Youssef-Hassane/test-readme/blob/main/7medo.png) | Ahmed Abdelhamid is a driven and ambitious student with a passion for problem-solving and creating software that solves real-world problems. He is always eager to learn new things and is always up for a challenge. He is a graduate from dental school and has a passion for creating software that creates a meaningful impact on users. During his internship year, Ahmed managed to learn HTML, CSS, and JavaScript and created a number of projects on the side while working as an intern dentist. |
+| ![Youssef Hassane](https://github.com/Youssef-Hassane/test-readme/blob/main/7medo.png) | Ahmed Abdelhamid is a driven and ambitious student with a passion for problem-solving and creating software that solves real-world problems. He is always eager to learn new things and is always up for a challenge. He is a graduate from dental school and has a passion for creating software that creates a meaningful impact on users. |
 
 
 
