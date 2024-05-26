@@ -9,16 +9,8 @@
 ## Ex - Developer:
 | **Ahmed Abdelhamid** | **AKA 7medo** |
 |---|---|
-| ![7medo](https://github.com/Youssef-Hassane/test-readme/blob/main/7medo.png) | Ahmed Abdelhamid is a driven and ambitious student with a passion for problem-solving and creating software that solves real-world problems. He is always eager to learn new things and is always up for a challenge. He is a graduate from dental school and has a passion for creating software that creates a meaningful impact on users. |
+| <img src="https://github.com/Youssef-Hassane/test-readme/blob/main/7medo.png" alt="Youssef Hassane" style="width: 100px; height: auto;"> | Ahmed Abdelhamid is a driven and ambitious student with a passion for problem-solving and creating software that solves real-world problems. He is always eager to learn new things and is always up for a challenge. He is a graduate from dental school and has a passion for creating software that creates a meaningful impact on users. |
 
 
-
-| Action                | Request | 
-| --------------------- | ------- | 
-| ![7medo](https://github.com/Youssef-Hassane/test-readme/blob/main/7medo.png) | Ahmed Abdelhamid is a driven and ambitious student with a passion for problem-solving and creating software that solves real-world problems. He is always eager to learn new things and is always up for a challenge. He is a graduate from dental school and has a passion for creating software that creates a meaningful impact on users. During his internship year, Ahmed managed to learn HTML, CSS, and JavaScript and created a number of projects on the side while working as an intern dentist. |
-| Show All Products     | GET     | 
-| Show Specific Product | GET     |
-| Update Product        | PATCH   | 
-| Delete Product        | DELETE  |
 
 
