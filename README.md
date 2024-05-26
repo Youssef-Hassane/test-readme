@@ -9,7 +9,8 @@
 ## Ex - Developer:
 | **Youssef Hassane** | **Youssef Hassane** |
 |---|---|
-| ![Youssef Hassane](https://github.com/Youssef-Hassane/test-readme/blob/main/7medo.png) | # Ex - Developer: \n JavaScript and created a number of projects on the side while working as an intern dentist |
+| ![Youssef Hassane](https://github.com/Youssef-Hassane/test-readme/blob/main/7medo.png) | Ex - Developer: 
+ JavaScript and created a number of projects on the side while working as an intern dentist |
 
 
 
