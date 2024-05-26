@@ -101,7 +101,7 @@ The console allows for the user to interact with the system in a more human-frie
 ## Developers:
 
 | **Youssef Hassane (AKA Almasy)** | **Ahmed Abdelhamid (AKA 7medo)** |
-| **Ahmed Abdelhamid (AKA 7medo)** |
+
 |---|---|
 |---|
 | ![Youssef Hassane](https://github.com/Youssef-Hassane/Screenshot/blob/main/img.png) | ![Ahmed Abdelhamid](https://github.com/Youssef-Hassane/test-readme/blob/main/7medo.png) |
