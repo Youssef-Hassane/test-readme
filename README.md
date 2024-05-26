@@ -112,7 +112,7 @@ The console allows for the user to interact with the system in a more human-frie
 
 <table>
   <tr>
-    <td style="text-align: center; width: 200px; vertical-align: middle;">
+    <td style="text-align: center; width: 400px; vertical-align: middle;">
       <img src="https://github.com/Youssef-Hassane/test-readme/blob/main/7medo.png" alt="Youssef Hassane" style="height: 200px; max-width: 100%;">
     </td>
     <td style="vertical-align: middle;">
